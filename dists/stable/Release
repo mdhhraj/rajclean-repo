@@ -1,0 +1,13 @@
+Origin: RajClean
+Label: RajClean
+Suite: stable
+Codename: stable
+Architectures: all
+Components: main
+Description: RajClean Turbo Pro package repository
+MD5Sum:
+ 7ea898efbf21010e9a088083852ae964 493 main/binary-all/Packages
+ 5c706dfa3e67e97b38290926acbe23c4 380 main/binary-all/Packages.gz
+SHA256:
+ 16cc6763d690beccff123a28b2c9caf6b0b9d5a8f32805bb2e16e5e4b9682959 493 main/binary-all/Packages
+ a272030da276218598d1cf3aeafd3cdd8068bd5825dab58c36cb1f82be410ba0 380 main/binary-all/Packages.gz
