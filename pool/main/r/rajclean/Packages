@@ -1,0 +1,16 @@
+Package: rajclean
+Version: 8.1
+Architecture: all
+Maintainer: Hasibul Hasan Rajib
+Depends: python
+Filename: pool/main/r/rajclean/rajclean_8.1_all.deb
+Size: 2628
+MD5sum: f8fd6a1b05831648bd569083ebcaae67
+SHA1: 930f6db03b45088c051dd55f1dcebbc12d4d0157
+SHA256: 30dc78a4951068d18d08743656976dacb89acd4a3a5974669be54d26245c1212
+Section: utils
+Priority: optional
+Description: RajClean Turbo Pro
+ Smart Android internal and external storage cleaner.
+ Scans junk, temporary, error and duplicate files.
+
