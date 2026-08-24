@@ -1,0 +1,58 @@
+Build directories
+
+build/
+dist/
+
+Temporary files
+
+tmp/
+temp/
+*.tmp
+*.temp
+
+Python cache
+
+pycache/
+*.py[cod]
+*.pyo
+
+Python virtual environments
+
+.venv/
+venv/
+env/
+
+Local development files
+
+*.log
+*.swp
+*.swo
+.DS_Store
+
+Termux temporary files
+
+.termux/
+
+Local repository test files
+
+*-test/
+*.test
+
+Local GPG files
+
+*.key
+*.asc
+*.private
+*.secret
+
+Backup files
+
+*.bak
+*.backup
+*~
+
+IDE / Editor files
+
+.vscode/
+.idea/
+*.iml
